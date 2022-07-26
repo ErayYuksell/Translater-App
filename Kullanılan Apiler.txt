@@ -1,0 +1,2 @@
+https://mymemory.translated.net/doc/spec.php
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance
